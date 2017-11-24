@@ -1,2 +1,2 @@
 str="ttt"
-#
+print(str)
